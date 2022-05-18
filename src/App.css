@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  
+}
+*{
+  margin:10px;
+  
+}
+body{
+  padding: 10px;
+  color: #ffff;
+}
+.outline{
+  /* width: 60%; */
+  width: 550px;
+height: 868px;
+ 
+  background-color: #23252C;
+  border-radius: 10px;
+}
+.profilePhoto{
+  align-items: center;
+  border-radius: 10px;
+  
+
+}
+.profile-desigination{
+  color: #F3BF99;
+
+}
+.profile-website{
+  color: #F5F5F5;
+  ;
+}
+.bussiness-card{
+  align-items: center;
+  justify-content: center;
+  width: 350px;
+  word-wrap: break-word;
+  margin-left: 100px;
+  margin-right: 40px;
+  background-color: #1A1B21;;
+  border-radius: 10px;
+  margin-top: 70px;
+  
+}
+.email,.linkedIn{
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+.linkedIn{
+  background: #5093E2;
+}
+.profilePhoto{
+  margin:0px;
+  margin-top: 20px;
+}
